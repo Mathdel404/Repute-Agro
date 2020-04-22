@@ -1,4 +1,4 @@
-# My-web-
+
 <!DOCTYPE html>
 <html>
 
@@ -10,8 +10,12 @@
 
 <body>
   <link href="style.css" rel="stylesheet" media="screen" />
-  <div id="head">
-  <h1>THE <scr class="name">BEGINNING</h1>
+  <div id="THE">
+  <h1>
+      THE <scr class="name">BEGINNING
+      </h1>
+      <p>In the beginning God created heaven and earth</p>
+
 
 </body>
 
