@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;600&display=swap');
+h1{
+  font-family: Roboto slab;
+  text-align: center;
+  color: #6E1616;
+}
+h1 span1{
+  color:
+  #6D9B3D;
+}
+h1 span2{
+  color:
+  #6F843A1C;
+}
+h1 span3{
+  color:#AF2573;
+}
+h1 span4{
+  color:#7329A2;
+}
+p span{
+  color:#4D9177;
+}
